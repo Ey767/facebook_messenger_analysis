@@ -1,0 +1,442 @@
+{
+  "participants": [
+    {
+      "name": "Vaughn Parker"
+    },
+    {
+      "name": "Araaish Paul"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Araaish Paul",
+      "timestamp_ms": 1578255103885,
+      "content": "Not personally",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Araaish Paul",
+      "timestamp_ms": 1578255100022,
+      "content": "haha I know of him",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u00ae",
+          "actor": "Vaughn Parker"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1578254178373,
+      "photos": [
+        {
+          "uri": "messages/inbox/VaughnParker_JbI8DaiAXw/photos/81517947_672880593249469_253976676231282688_n_672880569916138.jpg",
+          "creation_timestamp": 1578254177
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1578254175729,
+      "content": "Also do you know this man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1578254125531,
+      "content": "I told my neighbor about you and I was like \u00e2\u0080\u009che went to this school called Exeter idk if you\u00e2\u0080\u0099ve heard of it\u00e2\u0080\u009d and he was like \u00e2\u0080\u009chohoho of course I have heard of it, that\u00e2\u0080\u0099s like saying I go to a college called Harvard have you heard of it\u00e2\u0080\u009d",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Araaish Paul",
+      "timestamp_ms": 1578247528310,
+      "content": "Lol wdym",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1578247301225,
+      "content": "U didn\u00e2\u0080\u0099t tell me that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1578247298088,
+      "content": "Araaish Exeter is a famous school",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1578247097615,
+      "content": "Not yet but I want to",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Araaish Paul",
+      "timestamp_ms": 1578239476698,
+      "content": "I'm gonna try to get a head start",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Araaish Paul",
+      "timestamp_ms": 1578239452383,
+      "content": "Did u study at all",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1578239440898,
+      "content": "<3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1578239429677,
+      "content": "yoooooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1578239428452,
+      "content": "Whatttt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Araaish Paul",
+      "timestamp_ms": 1578239372348,
+      "content": "Also I switched to 415 so we're math squad again",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1578238539738,
+      "content": "Broooo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Araaish Paul",
+      "timestamp_ms": 1578237231186,
+      "content": "I got lucky w 173",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Araaish Paul",
+      "timestamp_ms": 1578237216880,
+      "content": "Broo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1577762430925,
+      "content": "Yesss",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Araaish Paul",
+      "timestamp_ms": 1577759973614,
+      "content": "I also want to/probably should work on some independent projects soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Araaish Paul",
+      "timestamp_ms": 1577759912330,
+      "content": "okk gotcha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1577759888779,
+      "content": "It\u00e2\u0080\u0099s click and drag tho it\u00e2\u0080\u0099s ez",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1577759882994,
+      "content": "I mean it\u00e2\u0080\u0099s not really a template?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1577759875984,
+      "content": "Uhhh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1577759874173,
+      "content": "Just wix",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Araaish Paul",
+      "timestamp_ms": 1577759823941,
+      "content": "*do you need html and css for wix or just templates",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Araaish Paul",
+      "timestamp_ms": 1577759788491,
+      "content": "I",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Araaish Paul",
+      "timestamp_ms": 1577759785901,
+      "content": "I'",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Araaish Paul",
+      "timestamp_ms": 1577759772215,
+      "content": "\u00f0\u009f\u0098\u00b3",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1577759755543,
+      "content": "It was like $300 for 3 years I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1577759743883,
+      "content": "nah :(",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Araaish Paul",
+      "timestamp_ms": 1577759665633,
+      "content": "was it a one time payment?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Araaish Paul",
+      "timestamp_ms": 1577759654380,
+      "content": "hmm",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1577759643748,
+      "content": "I wish there was a template but there isn\u00e2\u0080\u0099t really",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1577759627491,
+      "content": "Altho I originally bought it on godaddy bc they had a weird deal",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1577759615477,
+      "content": "Wix* lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1577759612617,
+      "content": "Wix and six",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1577759607109,
+      "content": "Ah hello good sir",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Araaish Paul",
+      "timestamp_ms": 1577759377378,
+      "content": "I'm gonna copy your good idea",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Araaish Paul",
+      "timestamp_ms": 1577759332500,
+      "content": "hey buddy, what did you use to design your website, also what hosting service did you use?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1577290036388,
+      "content": "Merry Christmas good buddy :)",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Araaish Paul",
+      "timestamp_ms": 1577281337902,
+      "content": "Merry Christmas good sir",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Araaish Paul",
+      "timestamp_ms": 1577281324298,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1577266266537,
+      "content": "https://youtu.be/uPOJ1PR50ag",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=uPOJ1PR50ag"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1576367128540,
+      "content": "oops this was supposed to go to the group",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1576367113043,
+      "photos": [
+        {
+          "uri": "messages/inbox/VaughnParker_JbI8DaiAXw/photos/80559926_582473252325673_7256988601173409792_n_2557802280963180.jpg",
+          "creation_timestamp": 1576367112
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1576260970981,
+      "content": "That\u00e2\u0080\u0099s ur position buddy",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Araaish Paul"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1576260963281,
+      "videos": [
+        {
+          "uri": "messages/inbox/VaughnParker_JbI8DaiAXw/videos/video1576260963_589371628581394.mp4",
+          "creation_timestamp": 1576260959,
+          "thumbnail": {
+            "uri": "messages/inbox/VaughnParker_JbI8DaiAXw/videos/thumbnails/73498192_2543992149046916_4620259196962218130_n.jpg"
+          }
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Araaish Paul",
+      "timestamp_ms": 1568977856953,
+      "sticker": {
+        "uri": "messages/stickers_used/39178562_1505197616293642_5411344281094848512_n_369239263222822.png"
+      },
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1568977854551,
+      "content": "I\u00e2\u0080\u0099ll see u soon",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1568977851039,
+      "content": "Hold on I live in PAR so I gotta leave rn if I want to get there ok time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1568977822952,
+      "photos": [
+        {
+          "uri": "messages/inbox/VaughnParker_JbI8DaiAXw/photos/68671785_1400819566748879_2213821367801872384_n_2279225418842906.jpg",
+          "creation_timestamp": 1568977822
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Araaish Paul",
+      "timestamp_ms": 1568977820050,
+      "content": "might consider the Olympics if this doesn't work out",
+      "reactions": [
+        {
+          "reaction": "\u00f0\u009f\u0098\u0086",
+          "actor": "Vaughn Parker"
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Araaish Paul",
+      "timestamp_ms": 1568977798474,
+      "content": "I'm going for a 1:30 split personality",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1568977786201,
+      "content": "Me too what a coincidence",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1568977780739,
+      "content": "Yessss",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Araaish Paul",
+      "timestamp_ms": 1568977776814,
+      "content": "Getting ready for this 4kkkkk",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1568977771652,
+      "content": "What are you doing up so early \u00f0\u009f\u0098\u00b4",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1568977762140,
+      "content": "What's up?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Araaish Paul",
+      "timestamp_ms": 1568977759109,
+      "content": "Yo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1568977743892,
+      "content": "Vaughn is waving at you!",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1568977743600,
+      "content": "Vaughn is waving at you!",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Vaughn Parker",
+      "timestamp_ms": 1568977743224,
+      "content": "Vaughn is waving at you!",
+      "type": "Share"
+    }
+  ],
+  "title": "Vaughn Parker",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/VaughnParker_JbI8DaiAXw"
+}
